@@ -1,0 +1,10 @@
+<!ELEMENT auto (autor, znacka+)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT znacka (nazov, cena, reprezentacia)>
+<!ELEMENT nazov (#PCDATA)>
+<!ELEMENT cena (#PCDATA)>
+<!ELEMENT reprezentacia (#PCDATA)>
+
+<!ATTLIST znacka id ID #REQUIRED>
+<!ENTITY autor "Martin Simonovic">
+

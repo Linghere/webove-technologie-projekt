@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE auto SYSTEM "auto.dtd">
+
+<auto>
+    <autor>
+        Autor
+    </autor>
+
+    <znacka id="1">
+        <nazov>SKODA</nazov>
+        <cena>4000$</cena>
+        <reprezentacia>25,42 %</reprezentacia>
+    </znacka>
+
+    <znacka id="2">
+        <nazov>TOYOTA</nazov>
+        <cena>2000$</cena>
+        <reprezentacia>11,57 %</reprezentacia>
+    </znacka>
+
+    <znacka id="3">
+        <nazov>KIA</nazov>
+        <cena>3000$</cena>
+        <reprezentacia>10,45 %</reprezentacia>
+    </znacka>
+
+    <znacka id="4">
+        <nazov>HYUNDAI</nazov>
+        <cena>4000$</cena>
+        <reprezentacia>9,22 %</reprezentacia>
+    </znacka>
+
+    <znacka id="5">
+        <nazov>VOLKSWAGEN</nazov>
+        <cena>3000$</cena>
+        <reprezentacia>7,03 %</reprezentacia>
+    </znacka>
+
+    <znacka id="6">
+        <nazov>DACIA</nazov>
+        <cena>2000$</cena>
+        <reprezentacia>5,62 %</reprezentacia>
+    </znacka>
+
+    <znacka id="7">
+        <nazov>MERCEDES-BENZ</nazov>
+        <cena>5000$</cena>
+        <reprezentacia>4,36 %</reprezentacia>
+    </znacka>
+
+    <znacka id="8">
+        <nazov>SUZUKI</nazov>
+        <cena>2000$</cena>
+        <reprezentacia>3,06 %</reprezentacia>
+    </znacka>
+</auto>
